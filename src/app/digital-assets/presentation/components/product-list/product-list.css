@@ -1,0 +1,15 @@
+.filter-group {
+  margin-bottom: 20px;
+}
+
+.spinner-container {
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+}
+
+.products-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 16px;
+}

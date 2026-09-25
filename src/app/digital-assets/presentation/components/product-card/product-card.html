@@ -1,0 +1,22 @@
+<mat-card appearance="outlined" class="card">
+  <img mat-card-image [src]="product.thumbnail" [alt]="product.title" class="card-img" />
+
+  <mat-card-header>
+    <mat-card-title class="card-title">{{ product.title }}</mat-card-title>
+    <mat-card-subtitle>{{ 'PRODUCT.CATEGORY' | translate }}: {{ product.category }}</mat-card-subtitle>
+  </mat-card-header>
+
+  <mat-card-content class="card-body">
+    <p class="description">{{ product.description }}</p>
+    <div class="info-row">
+      <span class="price">${{ product.price }}</span>
+      <span class="rating">{{ 'PRODUCT.RATING' | translate }}: {{ product.rating }}</span>
+    </div>
+  </mat-card-content>
+
+  <mat-card-actions>
+    <button mat-raised-button color="primary" (click)="openDetailDialog()">
+      {{ 'PRODUCT.DETAILS' | translate }}
+    </button>
+  </mat-card-actions>
+</mat-card>
