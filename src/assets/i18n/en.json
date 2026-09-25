@@ -1,0 +1,26 @@
+﻿{
+  "TOOLBAR": {
+    "TITTLE": "Product Explorer"
+  },
+  "CATALOGUE": {
+    "TITTLE": "Catalog",
+    "PHONE": "Phones",
+    "LAPTOP": "Laptops"
+  },
+  "Product":
+  {
+    "CATEGORY": "Category",
+    "BRAND": "Brand",
+    "PRICE": "Price",
+    "RATING": "Rating",
+    "STOCK": "Stock",
+    "DESCRIPTION": "Description",
+    "DETAILS": "View Details",
+    "CLOSE": "Close"
+  },
+  "FOOTER":
+  {
+    "COPYRIGHT": "Copyright @ 2026",
+    "DEVELOPED_BY": "Developed by UPC Flores Martinez,Ricardo Andres"
+  }
+}

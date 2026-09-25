@@ -1,0 +1,24 @@
+﻿{
+  "TOOLBAR": {
+    "TITTLE": "Explorador de Productos"
+  },
+  "CATALOGUE": {
+    "TITTLE": "Catálogo",
+    "PHONE": "Teléfonos",
+    "LAPTOP": "Portátiles"
+  },
+  "Product": {
+    "CATEGORY": "Categoría",
+    "BRAND": "Marca",
+    "PRICE": "Precio",
+    "RATING": "Calificación",
+    "STOCK": "Inventario",
+    "DESCRIPTION": "Descripción",
+    "DETAILS": "Ver Detalles",
+    "CLOSE": "Cerrar"
+  },
+  "FOOTER": {
+    "COPYRIGHT": "Copyright @ 2026",
+    "DEVELOPED_BY": "Desarrollado por UPC Flores Martinez, Ricardo Andres"
+  }
+}
