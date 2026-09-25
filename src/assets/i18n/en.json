@@ -1,9 +1,9 @@
 ﻿{
   "TOOLBAR": {
-    "TITTLE": "Product Explorer"
+    "TITLE": "Product Explorer"
   },
   "CATALOGUE": {
-    "TITTLE": "Catalog",
+    "TITLE": "Catalog",
     "PHONE": "Phones",
     "LAPTOP": "Laptops"
   },
